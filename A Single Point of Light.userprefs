@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Custom Assets\Scripts\FinalMessageScript.cs">
+    <Files>
+      <File FileName="Assets\Custom Assets\Scripts\ItemControllerBackup.cs" Line="13" Column="32" />
+      <File FileName="Assets\Custom Assets\Scripts\FinishGame.cs" Line="37" Column="129" />
+      <File FileName="Assets\Custom Assets\Scripts\Memory1Script.cs" Line="69" Column="67" />
+      <File FileName="Assets\Custom Assets\Scripts\Memory2Script.cs" Line="1" Column="1" />
+      <File FileName="Assets\Custom Assets\Scripts\Memory3Script.cs" Line="68" Column="88" />
+      <File FileName="Assets\Custom Assets\Scripts\Memory4Script.cs" Line="57" Column="4" />
+      <File FileName="Assets\Custom Assets\Scripts\Memory5Script.cs" Line="68" Column="67" />
+      <File FileName="Assets\Custom Assets\Scripts\Memory6Script.cs" Line="57" Column="4" />
+      <File FileName="Assets\Custom Assets\Scripts\FinalMessageScript.cs" Line="31" Column="4" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

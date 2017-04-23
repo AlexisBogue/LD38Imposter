@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 849fa3d61ad754f45b8144064e5bf6d8
+timeCreated: 1492950432
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube1
+    100004: pCube2
+    100006: pCube3
+    100008: pCube4
+    100010: pCube5
+    100012: polySurface1
+    100014: polySurface2
+    100016: pSphere1
+    100018: pSphere2
+    100020: transform1
+    100022: transform2
+    100024: transform3
+    100026: Bookcase
+    100028: BookcaseBurned
+    100030: Diploma
+    100032: DiplomaBurned
+    100034: Picture
+    100036: Picture1
+    100038: Trophy
+    100040: Computer
+    100042: ComputerBurned
+    100044: Desk
+    100046: Desk1
+    100048: Bed
+    100050: BedBurned
+    400000: //RootNode
+    400002: pCube1
+    400004: pCube2
+    400006: pCube3
+    400008: pCube4
+    400010: pCube5
+    400012: polySurface1
+    400014: polySurface2
+    400016: pSphere1
+    400018: pSphere2
+    400020: transform1
+    400022: transform2
+    400024: transform3
+    400026: Bookcase
+    400028: BookcaseBurned
+    400030: Diploma
+    400032: DiplomaBurned
+    400034: Picture
+    400036: Picture1
+    400038: Trophy
+    400040: Computer
+    400042: ComputerBurned
+    400044: Desk
+    400046: Desk1
+    400048: Bed
+    400050: BedBurned
+    2300000: pCube2
+    2300002: pCube3
+    2300004: polySurface1
+    2300006: polySurface2
+    2300008: pSphere1
+    2300010: pSphere2
+    2300012: Bookcase
+    2300014: BookcaseBurned
+    2300016: Diploma
+    2300018: DiplomaBurned
+    2300020: Picture
+    2300022: Picture1
+    2300024: Trophy
+    2300026: Computer
+    2300028: ComputerBurned
+    2300030: Desk
+    2300032: Desk1
+    2300034: Bed
+    2300036: BedBurned
+    3300000: pCube2
+    3300002: pCube3
+    3300004: polySurface1
+    3300006: polySurface2
+    3300008: pSphere1
+    3300010: pSphere2
+    3300012: Bookcase
+    3300014: BookcaseBurned
+    3300016: Diploma
+    3300018: DiplomaBurned
+    3300020: Picture
+    3300022: Picture1
+    3300024: Trophy
+    3300026: Computer
+    3300028: ComputerBurned
+    3300030: Desk
+    3300032: Desk1
+    3300034: Bed
+    3300036: BedBurned
+    4300000: pSphere1
+    4300002: pSphere2
+    4300004: pCube2
+    4300006: pCube3
+    4300008: polySurface1
+    4300010: polySurface2
+    4300012: Picture
+    4300014: Picture1
+    4300016: Bookcase
+    4300018: BookcaseBurned
+    4300020: Diploma
+    4300022: DiplomaBurned
+    4300024: Trophy
+    4300026: Desk
+    4300028: Desk1
+    4300030: Computer
+    4300032: ComputerBurned
+    4300034: Bed
+    4300036: BedBurned
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
